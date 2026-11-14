@@ -1,0 +1,6 @@
+{
+  "name": "PEHRA — Hyperlocal Flood Early-Warning & Risk Assessment",
+  "description": "PEHRA: Greater Mumbai Hyperlocal Flood Early-Warning, Sensor Telemetry, RBAC Tactical Command, and Disaster Response Network.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
